@@ -3,7 +3,7 @@
 
 ![tinkering](https://img.shields.io/badge/focus-learning-green)
 
-Notes from learning Cyber Threat Intelligence, following:
+Notes from learning cybersecurity fundamentals, following:
 - Andy Piazza's [Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb)
 - Katie Nickels' [A Cyber Threat Intelligence Self-Study Plan: Part 1](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a).
 

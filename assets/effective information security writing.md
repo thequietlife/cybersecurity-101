@@ -2,11 +2,6 @@
 
 Notes from Chris Sanders Applied Network Defense Course
 
-## Summary
-* Once upon a time
-* xx
-
-
 ### Why writing scares us
 
 * **Fear of not sounding competent** – Overthinking leads to slow, overly complex writing.
@@ -162,7 +157,6 @@ E.g. We can see Darth Vader is bad by the things he does. Luke Skywalker shows v
 4. Write everything out - don't focus on the target audience yet. Get something on paper first
 5. Revise the document with the target audience in mind
 
-Inspired from Stephen King On Writing
 
 
 

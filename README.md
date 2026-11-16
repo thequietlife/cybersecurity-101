@@ -6,7 +6,7 @@
 Notes from learning cybersecurity:
 
 
-  * [Fundamentals](https://github.com/thequietlife/cybersecurity-101/blob/efaf6d37746487714438539a1e566a8cbecde91a/assets/fundamentals.md)
+  * [Networking](https://github.com/thequietlife/cybersecurity-101/blob/efaf6d37746487714438539a1e566a8cbecde91a/assets/fundamentals.md)
   * [How computers work](https://github.com/thequietlife/cybersecurity-101/blob/efaf6d37746487714438539a1e566a8cbecde91a/assets/how%20computers%20work.md)
   * [Cybersecurity concepts](https://github.com/thequietlife/cybersecurity-101/blob/efaf6d37746487714438539a1e566a8cbecde91a/assets/cybersecurity%20concepts.md)
   * [Common attack types](https://github.com/thequietlife/cybersecurity-101/blob/efaf6d37746487714438539a1e566a8cbecde91a/assets/common%20attack%20types.md)

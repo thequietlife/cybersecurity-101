@@ -1,4 +1,4 @@
-# Cybersecurity 101 Notes
+# cybersecurity notes
 
 
 ![tinkering](https://img.shields.io/badge/focus-learning-green)
